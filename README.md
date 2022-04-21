@@ -5,7 +5,7 @@ Packet Tracer is a cross-platform visual simulation program designed by Cisco Sy
 This is an unofficial containerized image for run on every GNU/Linux distribution, this dockerfile was done and tested by me on Fedora 35 Workstation using Podman.
 
 # Requirements
-- Docker or Podman (just replace the comamnd)
+- Docker or Podman (just replace the command)
 
 # How to use
 For build and run this Dockerfile:
